@@ -36,7 +36,3 @@ If you wish to reference this repository in your work, please use the BibTeX ent
   howpublished = {\url{https://github.com/Imanm02/LiteratureReview-LLMs-LectureNoteGeneration}}
 }
 ```
-
-## Table of Contents
-
-- [Lecture Note Generation](https://github.com/Imanm02/LiteratureReview-LLMs-LectureNoteGeneration/blob/main/literature-review.md)
