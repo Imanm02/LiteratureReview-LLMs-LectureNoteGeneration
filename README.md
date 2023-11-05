@@ -1,5 +1,13 @@
 # Literature Review on Large Language Models (LLMs) and Lecture Note Generation within NLP and Education Research
 
+# Table of Contents
+1. [Overview](#overview)
+2. [Repository Use and Citations](#repository-use-and-citations)
+3. [Paper Descriptions](#paper-descriptions)
+4. [Contributions](#contributions)
+5. [Citing This Repository](#citing-this-repository)
+
+
 ## Overview
 
 The collections contained herein have been personally compiled without the aid of web crawlers or any form of automated gathering software. These curated lists are intended to serve as a starting point for researchers looking for references, inspiration, and a comprehensive background of work in their area of interest.
