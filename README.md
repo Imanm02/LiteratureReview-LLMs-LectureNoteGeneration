@@ -10,16 +10,16 @@ This repository is a work in progress. You can open a pull request if any descri
 You can cite this repository using the following BibTeX entry:
 
 ```
-@misc{SinaElahimanesh2023,
-  author = {Sina Elahimanesh},
-  title = {A Literature Review on LLMs and Lecture Note Generation},
+@misc{Imanm02,
+  author = {Iman Mohammadi},
+  title = {Literature Review on Large Language Models (LLMs) and Lecture Note Generation within NLP and Education Research},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/SinaElahimanesh/Literature-Review-LLMs-LectureNotes}}
+  howpublished = {\url{https://github.com/Imanm02/LiteratureReview-LLMs-LectureNoteGeneration}}
 }
 ```
 
 ## Table of Contents
 
-- [Lecture Note Generation](https://github.com/SinaElahimanesh/Literature-Review-LLMs-LectureNotes/blob/main/literature-review.md)
+- [Lecture Note Generation](https://github.com/Imanm02/LiteratureReview-LLMs-LectureNoteGeneration/blob/main/literature-review.md)
