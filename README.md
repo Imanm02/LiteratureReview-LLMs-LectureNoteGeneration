@@ -1,4 +1,4 @@
-# Literature Review on Large Language Models (LLMs) and Lecture Note Generation within NLP and Education Research
+### Literature Review on Large Language Models (LLMs) and Lecture Note Generation within NLP and Education Research
 
 # Table of Contents
 1. [Overview](#overview)
